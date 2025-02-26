@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Project
 
-This project aims to perform sentiment analysis on text data, classifying the text as positive, negative, or neutral. It utilizes machine learning techniques to analyze the sentiment of user-provided data.
+This project aims to perform sentiment analysis on text data, classifying the text as positive or negative. It utilizes machine learning techniques to analyze the sentiment of user-provided data.
 
 ## Table of Contents
 - [Installation](#installation)
